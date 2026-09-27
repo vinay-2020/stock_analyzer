@@ -1,0 +1,6 @@
+{
+  "name": "Equity Analytics & Portfolio Tracker",
+  "description": "Interactive equity transactions, portfolio performance metrics, and Google Drive CSV financial dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
